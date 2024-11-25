@@ -17,12 +17,12 @@ html {
   scroll-behavior: smooth;
 }
 body {
-  background: #555555;
+  background: #f7f7f7;
   font-family: "Poppins", sans-serif;
 }
 
 *::selection {
-  background: #101011;
+  background: #2b3dda;
   color: #fff;
 }
 
@@ -37,7 +37,7 @@ html::-webkit-scrollbar-track {
   background: rgb(235, 202, 245);
 }
 html::-webkit-scrollbar-thumb {
-  background: #000000;
+  background: #420177;
 }
 
 /* pre loader start */
@@ -46,7 +46,7 @@ html::-webkit-scrollbar-thumb {
   top: 0;
   left: 0;
   z-index: 10000;
-  background: #555555;
+  background: #e6eff1;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -70,7 +70,7 @@ header {
   justify-content: space-between;
   padding: 1.7rem 10%;
   height: 6.5rem;
-  background-color: #777777;
+  background-color: #fff;
   box-shadow: 0 1px 4px rgba(146, 161, 176, 0.3);
 }
 section {
