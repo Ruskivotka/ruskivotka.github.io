@@ -68,7 +68,6 @@ document.addEventListener('visibilitychange',
         }
     });
 
-
 // <!-- typed js effect starts -->
 var typed = new Typed(".typing-text", {
     strings: ["Mechanical Engineer", "Design Engineer", "Virtual Reality Developer", "R&D Engieer", "Product Designer"],
