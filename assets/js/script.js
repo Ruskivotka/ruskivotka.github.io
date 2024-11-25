@@ -59,7 +59,7 @@ $(document).ready(function () {
 document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
-            document.title = "Portfolio | Joni Innanen";
+            document.title = "Portfolio | Jigar Sable";
             $("#favicon").attr("href", "assets/images/favicon.png");
         }
         else {
@@ -68,9 +68,10 @@ document.addEventListener('visibilitychange',
         }
     });
 
+
 // <!-- typed js effect starts -->
 var typed = new Typed(".typing-text", {
-    strings: ["mechanical engineer", "design engineer", "virtual reality developer", "rdi engineer", "product designer"],
+    strings: ["frontend development", "backend development", "web designing", "android development", "web development"],
     loop: true,
     typeSpeed: 50,
     backSpeed: 25,
