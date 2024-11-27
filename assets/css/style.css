@@ -1422,3 +1422,10 @@ form .button-area {
 
   .skills-list { column-gap: 100px; }
 
+
+
+.quote {
+    text-align: center;
+    font-style: italic; /* Halutessasi voit korostaa lainauksen kursiivilla */
+    margin: 20px 0; /* Lisää tilaa ylös ja alas, jos tarpeen */
+}
