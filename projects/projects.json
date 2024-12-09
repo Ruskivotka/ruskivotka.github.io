@@ -5,11 +5,12 @@
     "image": "notystackandroid",
     "category": "android",
     "links": {
-      "view": "https://www.mdsystem.com/"
+      "view": "https://www.mdsystem.com/",
+      "code": "https://www.mdsystem.com/"
     }
   },
   {
-    "name": "Test 2",
+    "name": "Layout Design",
     "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     "image": "sppuprepandroid",
     "category": "android",
