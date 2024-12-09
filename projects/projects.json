@@ -1,12 +1,11 @@
 [
   {
-    "name": "Test 1",
-    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "name": "MDS Data Sheets",
+    "desc": "I collected IMDS material data with an accuracy of one-thousandth of a percent from international suppliers, ensuring high product quality. I collaborated with Volvo CE units in Sweden and France, as well as the MSK Matec branch in Slovakia, while improving material management processes and fostering international cooperation.",
     "image": "notystackandroid",
     "category": "android",
     "links": {
-      "view": "https://www.linkedin.com/",
-      "code": "https://www.linkedin.com"
+      "view": "https://www.mdsystem.com/"
     }
   },
   {
