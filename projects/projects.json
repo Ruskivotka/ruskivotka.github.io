@@ -5,7 +5,8 @@
     "image": "notystackandroid",
     "category": "android",
     "links": {
-      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+      "view": "https://www.linkedin.com/",
+      "code": "https://www.linkedin.com"
     }
   },
   {
@@ -14,8 +15,8 @@
     "image": "sppuprepandroid",
     "category": "android",
     "links": {
-      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
-      "code": "https://github.com/jigar-sable/sppu-prep-android"
+      "view": "https://www.linkedin.com",
+      "code": "https://www.linkedin.com"
     }
   },
   {
@@ -24,8 +25,8 @@
     "image": "newsboxandroid",
     "category": "android",
     "links": {
-      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
-      "code": "https://github.com/jigar-sable/newsbox-android"
+      "view": "https://www.linkedin.com/",
+      "code": "https://www.linkedin.com/"
     }
   },
   {
@@ -34,8 +35,8 @@
     "image": "weatherlyandroid",
     "category": "android",
     "links": {
-      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
-      "code": "https://github.com/jigar-sable/weatherly-android"
+      "view": "https://www.linkedin.com/",
+      "code": "https://www.linkedin.com/"
     }
   },
   {
@@ -44,8 +45,8 @@
     "image": "instagrammern",
     "category": "mern",
     "links": {
-      "view": "https://instagramernstack.herokuapp.com/",
-      "code": "https://github.com/jigar-sable/instagram-mern"
+      "view": "https://www.linkedin.com/",
+      "code": "https://www.linkedin.com/"
     }
   },
   {
@@ -54,8 +55,8 @@
     "image": "flipkartmern",
     "category": "mern",
     "links": {
-      "view": "https://flipkartwebs.herokuapp.com/",
-      "code": "https://github.com/jigar-sable/flipkart-mern"
+      "view": "https://www.linkedin.com/",
+      "code": "https://www.linkedin.com/"
     }
   },
   {
@@ -64,8 +65,8 @@
     "image": "resumegen",
     "category": "mern",
     "links": {
-      "view": "https://resumegenx.netlify.app/",
-      "code": "https://github.com/jigar-sable/resumegen"
+      "view": "https://www.linkedin.com/",
+      "code": "https://www.linkedin.com/"
     }
   },
   {
@@ -74,158 +75,8 @@
     "image": "reactprojects",
     "category": "mern",
     "links": {
-      "view": "https://reactjsprojects.herokuapp.com/",
-      "code": "https://github.com/jigar-sable/React-Projects"
-    }
-  },
-  {
-    "name": "Test 9",
-    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-    "image": "flipkartphp",
-    "category": "lamp",
-    "links": {
-      "view": "https://github.com/jigar-sable/Flipkart-Clone-PHP",
-      "code": "https://github.com/jigar-sable/Flipkart-Clone-PHP"
-    }
-  },
-  {
-    "name": "Test 10",
-    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-    "image": "jspro",
-    "category": "basicweb",
-    "links": {
-      "view": "https://jigar-sable.github.io/JavaScript-Projects",
-      "code": "https://github.com/jigar-sable/JavaScript-Projects"
-    }
-  },
-  {
-    "name": "Test 11",
-    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-    "image": "webuiclones",
-    "category": "mern",
-    "links": {
-      "view": "https://github.com/jigar-sable/web-ui-clones",
-      "code": "https://github.com/jigar-sable/web-ui-clones"
-    }
-  },
-  {
-    "name": "Test 12",
-    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-    "image": "cryptotracker",
-    "category": "mern",
-    "links": {
-      "view": "https://crypto-tracker-react-project.netlify.app/",
-      "code": "https://github.com/jigar-sable/React-Projects/tree/main/crypto-tracker"
-    }
-  },
-  {
-    "name": "Test 13",
-    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-    "image": "hulu",
-    "category": "mern",
-    "links": {
-      "view": "https://hulu-clone-jigar-sable.vercel.app/",
-      "code": "https://github.com/jigar-sable/React-Projects/tree/main/hulu-clone"
-    }
-  },
-  {
-    "name": "Test 14",
-    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-    "image": "portfolio1",
-    "category": "basicweb",
-    "links": {
-      "view": "#",
-      "code": "https://github.com/jigar-sable/Portfolio-Website"
-    }
-  },
-  {
-    "name": "Test 15",
-    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-    "image": "composey",
-    "category": "basicweb",
-    "links": {
-      "view": "https://composey.netlify.app/",
-      "code": "https://github.com/jigar-sable/LGMVIP-WebDev"
-    }
-  },
-  {
-    "name": "Test 16",
-    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-    "image": "webviewapp",
-    "category": "android",
-    "links": {
-      "view": "https://github.com/jigar-sable/Android-Webview#webapp--android-webview-app",
-      "code": "https://github.com/jigar-sable/Android-Webview"
-    }
-  },
-  {
-    "name": "Test 17",
-    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-    "image": "tsfbank",
-    "category": "lamp",
-    "links": {
-      "view": "https://tsfbank.rf.gd",
-      "code": "https://github.com/jigar-sable/TSF-Bank"
-    }
-  },
-  {
-    "name": "Test 18",
-    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-    "image": "bootstrapportfolio",
-    "category": "basicweb",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
-  {
-    "name": "Test 19",
-    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-    "image": "bootstraptemplate",
-    "category": "basicweb",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
-  {
-    "name": "Test 20",
-    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-    "image": "foodicious",
-    "category": "basicweb",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
-  {
-    "name": "Test 21",
-    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-    "image": "foodwebsite",
-    "category": "basicweb",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
-  {
-    "name": "Test 22",
-    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-    "image": "webchat",
-    "category": "mern",
-    "links": {
-      "view": "https://github.com/jigar-sable/WebChat#webchat",
-      "code": "https://github.com/jigar-sable/WebChat"
-    }
-  },
-  {
-    "name": "Test 23",
-    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-    "image": "basicbank",
-    "category": "android",
-    "links": {
-      "view": "https://github.com/jigar-sable/Basic_Banking_App#basic-banking-app",
-      "code": "https://github.com/jigar-sable/Basic_Banking_App"
+      "view": "https://www.linkedin.com/",
+      "code": "https://www.linkedin.com/"
     }
   }
 ]
