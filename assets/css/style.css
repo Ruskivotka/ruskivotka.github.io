@@ -1446,57 +1446,6 @@ form .button-area {
 /* === Testimonials Alku === */
 
 
-:root {
-    /* Colors */
-    --color-primary-dark-blue: hsl(240, 38%, 20%);
-    --color-primary-gray-blue: hsl(240, 18%, 53%);
-    /* WCAG-AA Adjusted */
-
-    /* Fonts */
-    --font-stack: 'Inter', sans-serif;
-    /* Weights: 300, 500, 700 */
-}
-
-/* Resets */
-
-html {
-    box-sizing: border-box;
-}
-
-*,
-*:before,
-*:after {
-    box-sizing: inherit;
-}
-
-img {
-    display: block;
-    max-width: 100%;
-    height: auto;
-}
-
-body,
-p,
-blockquote {
-    margin: 0;
-}
-
-/* Base */
-
-body {
-    background: url(../images/pattern-curve.svg) center bottom / contain no-repeat;
-    color: var(--color-primary-dark-blue);
-    font: 300 1rem var(--font-stack);
-    text-rendering: optimizeSpeed;
-    min-height: 100vh;
-}
-
-main {
-    width: 100%;
-    max-width: 87rem;
-    margin: 0 auto;
-}
-
 /* Testimonials */
 
 .slider {
