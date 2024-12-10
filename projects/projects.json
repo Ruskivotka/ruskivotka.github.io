@@ -1,5 +1,15 @@
 [
   {
+    "name": "Photorealistic Rendering",
+    "desc": "Rendered a 4K presentation video for potential use in design reviews and stakeholder meetings.",
+    "image": "newsboxandroid",
+    "category": "basicweb",
+    "links": {
+      "view": "https://www.youtube.com/watch?v=dofQ6Zy_9go",
+      "code": "https://www.youtube.com/watch?v=dofQ6Zy_9go"
+    }
+  },
+  {
     "name": "MDS Data Sheets",
     "desc": "Ensured IMDS data accuracy and compliance while enhancing collaboration with Volvo CE and MSK Matec",
     "image": "notystackandroid",
@@ -17,16 +27,6 @@
     "links": {
       "view": "https://www.linkedin.com",
       "code": "https://www.linkedin.com"
-    }
-  },
-  {
-    "name": "Photorealistic Rendering",
-    "desc": "Rendered a 4K video showcasing a machine cabin to support a thesis on industrial VR implementation.",
-    "image": "newsboxandroid",
-    "category": "basicweb",
-    "links": {
-      "view": "https://www.youtube.com/watch?v=dofQ6Zy_9go",
-      "code": "https://www.youtube.com/watch?v=dofQ6Zy_9go"
     }
   },
   {
