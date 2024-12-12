@@ -28,5 +28,15 @@
       "view": "https://joniinnanen.com/404",
       "code": "https://joniinnanen.com/404"
     }
-  }
+  },
+  {
+    "name": "Excel Tool For Transportation Optimization",
+    "desc": "Optimized trailer loading with Solid Edge CAD and created an Excel tool to assess load feasibility.",
+    "image": "excel",
+    "category": "basicweb",
+    "links": {
+      "view": "https://joniinnanen.com/404",
+      "code": "https://joniinnanen.com/404"
+    }
+  },
 ]
