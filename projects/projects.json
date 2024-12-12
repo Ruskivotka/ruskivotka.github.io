@@ -10,8 +10,8 @@
     }
   },
   {
-    "name": "Industrial Virtual Reality Implementation",
-    "desc": "Implemented a VR system for design evaluation, optimizing models for VR use without losing quality.",
+    "name": "Industrial Virtual Reality",
+    "desc": "Implemented a VR system for design evaluation, optimizing models for VR use while maintaining quality of 3D models.",
     "image": "virtualreality",
     "category": "basicweb",
     "links": {
@@ -40,8 +40,8 @@
     }
   },
   {
-    "name": "Excel Tool For Transportation Optimization",
-    "desc": "Optimized trailer loading with Solid Edge CAD and created an Excel tool to assess load feasibility.",
+    "name": "Excel Tool For Transportation",
+    "desc": "Optimized transport using Solid Edge CAD and creating Excel tool for reducing empty space in truck loading.",
     "image": "excel",
     "category": "basicweb",
     "links": {
