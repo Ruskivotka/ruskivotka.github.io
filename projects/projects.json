@@ -10,8 +10,18 @@
     }
   },
   {
+    "name": "Industrial Virtual Reality Implementation",
+    "desc": "Implemented a VR system for design evaluation, optimizing models for VR use without losing quality.",
+    "image": "virtualreality",
+    "category": "basicweb",
+    "links": {
+      "view": "https://joniinnanen.com/404",
+      "code": "https://joniinnanen.com/404"
+    }
+  },
+  {
     "name": "MDS Material Data Sheets",
-    "desc": "Ensured IMDS data accuracy and compliance while enhancing collaboration with Volvo CE and MSK Matec",
+    "desc": "Ensured IMDS data accuracy and compliance while enhancing collaboration with Volvo CE Sweden, France and MSK Slovakia.",
     "image": "notystackandroid",
     "category": "basicweb",
     "links": {
