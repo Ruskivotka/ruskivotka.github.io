@@ -419,9 +419,7 @@ header .navbar ul li a:hover {
   box-shadow: 0px 5px 10px rgba(48, 68, 247, 0.6);
   font-family: "Nunito", sans-serif;
 }
-.resumebtn .btn:last-child {
-    margin-right: 0; /* Poista marginaali viimeisestä napista */
-}
+
 .resumebtn .btn span {
   font-weight: 600;
   font-size: 1.8rem;
