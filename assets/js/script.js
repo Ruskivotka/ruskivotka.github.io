@@ -317,3 +317,19 @@ fetchData().then(data => {
 fetchData("projects").then(data => {
     showProjects(data);
 });
+
+
+
+
+
+
+
+
+
+
+
+
+
+window.addEventListener('load', function() {
+  document.querySelector('.slide-track').style.animationPlayState = 'running';
+});
