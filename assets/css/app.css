@@ -20,7 +20,7 @@
 }
 
 .partnerImgContainer {
-    height: 10rem!important;
+    height: 10rem;
     padding: .5rem;
     cursor: pointer;
     filter: brightness(70%);
@@ -54,7 +54,7 @@
 .owl-dot {
     width: 4rem;
     height: 1rem;
-    border: 1px solid var(--primaryCol)!important;
+    border: 1px solid var(--primaryCol);
     margin: 0 0.4rem;
     transition: var(--effect);
     -webkit-transition: var(--effect);
