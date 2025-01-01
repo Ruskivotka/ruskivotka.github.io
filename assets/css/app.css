@@ -5,6 +5,8 @@
 .partnersComp {
     background: var(--secondaryCol);
     color: var(--colorOne);
+    background-size: cover; /* tai contain, tai määrittele mitat */
+    background-repeat: no-repeat; /* estää taustan toistumisen */
 }
 
 .partnersComp h2 {
