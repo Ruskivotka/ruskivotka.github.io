@@ -1,42 +1,5 @@
 @import "../css/owl.carousel.min.css";
 
-/* css variables */
-
- :root {
-    --textFormat: upperCase;
-    --effect: all .8s linear;
-    --space: .1rem;
-    --weight: 600;
-    /* start default theme */
-    --primaryCol: #ffff18;
-    --secondaryCol: rgb(127, 19, 228);
-    --colorOne: #ffffff;
-    --colorTwo: #000000;
-    --colorThree: #808080;
-    /* end default theme */
-}
-
-
-/* global css */
-
-* {
-    font-family: 'Montserrat', sans-serif;
-    list-style: none!important;
-    text-decoration: none!important;
-    box-sizing: border-box;
-}
-
-ul {
-    margin: 0;
-    padding: 0;
-}
-
-html {
-    font-size: 100%;
-    scroll-behavior: smooth;
-}
-
-
 /* start preloader */
 
 .preloadContainer {
@@ -50,7 +13,7 @@ html {
 }
 
 .preloader {
-    background-image: url(../img/preloader/preloader.png);
+    background-image: url(../assets/img/preloader/preloader.png);
     background-repeat: no-repeat;
     height: 100px;
     width: 100px;
