@@ -1,32 +1,5 @@
 @import "../css/owl.carousel.min.css";
 
-/* start preloader */
-
-.preloadContainer {
-    background: var(--colorTwo);
-    position: fixed;
-    top: 0;
-    right: 0;
-    bottom: 0;
-    left: 0;
-    z-index: 9999;
-}
-
-.preloader {
-    background-image: url(../assets/img/preloader/preloader.png);
-    background-repeat: no-repeat;
-    height: 100px;
-    width: 100px;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-}
-
-
-/* end preloader */
-
-
 /* start our parenters */
 
 .partnersComp {
