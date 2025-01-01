@@ -7,6 +7,7 @@
     color: var(--colorOne);
     background-size: cover; /* tai contain, tai määrittele mitat */
     background-repeat: no-repeat; /* estää taustan toistumisen */
+    height: 500px;
 }
 
 .partnersComp h2 {
