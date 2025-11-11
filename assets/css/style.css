@@ -17,12 +17,12 @@ html {
   scroll-behavior: smooth;
 }
 body {
-  background: #f7f7f7;
+  background: #D3DAD9;
   font-family: "Poppins", sans-serif;
 }
 
 *::selection {
-  background: #2b3dda;
+  background: #37353E;
   color: #fff;
 }
 
@@ -90,7 +90,7 @@ header .logo {
   font-size: 1.9rem;
   font-weight: 800;
   text-decoration: none;
-  color: #0e2431;
+  color: #713F5A;
 }
 header .logo i {
   font-size: 2.2rem;
@@ -109,7 +109,7 @@ header .navbar li {
 }
 header .navbar ul li a {
   font-size: 1.57rem;
-  color: #0e2431;
+  color: #713F5A;
   font-weight: 600;
   text-decoration: none;
   letter-spacing: 0.04rem;
