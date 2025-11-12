@@ -90,13 +90,13 @@ header .logo {
   font-size: 1.9rem;
   font-weight: 800;
   text-decoration: none;
-  color: #713F5A;
+  color: #BCA88D;
 }
 header .logo i {
   font-size: 2.2rem;
 }
 header .logo:hover {
-  color: #fc8c05;
+  color: #3E3F29;
 }
 header .navbar ul {
   list-style: none;
@@ -109,7 +109,7 @@ header .navbar li {
 }
 header .navbar ul li a {
   font-size: 1.57rem;
-  color: #713F5A;
+  color: #BCA88D;
   font-weight: 600;
   text-decoration: none;
   letter-spacing: 0.04rem;
@@ -117,8 +117,8 @@ header .navbar ul li a {
 }
 header .navbar ul li a.active,
 header .navbar ul li a:hover {
-  color: #011aff;
-  border-bottom: 0.2rem solid #011aff;
+  color: #7D8D86;
+  border-bottom: 0.2rem solid #7D8D86;
   padding: 0.5rem 0;
 }
 /* navbar ends */
@@ -167,7 +167,7 @@ header .navbar ul li a:hover {
     padding: 1rem;
     color: #fff;
     border-radius: 0.5rem;
-    border-bottom: 0.5rem solid #011aff;
+    border-bottom: 0.5rem solid #7D8D86;
   }
   .fa-times {
     transform: rotate(180deg);
@@ -404,7 +404,7 @@ header .navbar ul li a:hover {
   text-transform: none;
 }
 .about .row .content .box-container .box p span {
-  color: #011aff;
+  color: #7D8D86;
 }
 .resumebtn {
   margin-top: 6rem;
