@@ -643,7 +643,7 @@ header .navbar ul li a:hover {
 /* work section starts */
 .work {
   /* background: #010124; */
-   background: linear-gradient(to bottom, #4a00e0, #57059e);
+   background: linear-gradient(to bottom, #313647, #435663);
 }
 .work h2 {
   color: #fff;
@@ -689,7 +689,7 @@ header .navbar ul li a:hover {
   height: 4.5rem;
   width: 100%;
   padding-left: 1rem;
-  background: #ffd900;
+  background: #A3B087;
 }
 .work .box-container .box .content .tag h3 {
   font-size: 2rem;
